@@ -14,7 +14,7 @@
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/yourusername/tictactoe.git
+    git clone https://github.com/codewithjohnson/tic-tac-toe.git
     cd tictactoe
     ```
 
